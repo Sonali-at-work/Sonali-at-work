@@ -42,7 +42,6 @@ Data Analytics • SQL • Python • Tableau • Machine Learning
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([sonali-patel-790a7b24b](https://linkedin.com/in/sonali-patel-790a7b24b))
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sonali-at-work&layout=compact&theme=dark)
