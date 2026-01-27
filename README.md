@@ -55,23 +55,6 @@ Data Analytics • SQL • Python • Tableau • Machine Learning
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sonali-at-work&layout=compact&theme=github_dark&langs_count=6)
 
 
-# Hi 👋 I'm Sonali Patel
-
-### 📊 Data Analyst | Python | SQL | Tableau | Machine Learning
-
-💡 Passionate about turning data into insights  
-📈 Love analytics, visualization & problem solving  
-🚀 Always learning new tech  
-
----
-
-### 🛠 Skills
-- Python
-- SQL
-- Tableau
-- Excel
-- Statistics
----
 
 ### 📂 Featured Projects
 🔹 Stock Price Prediction  
