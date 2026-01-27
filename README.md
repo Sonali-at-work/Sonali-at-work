@@ -26,6 +26,18 @@ Turning data into insights • Building dashboards • Solving business problems
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Statistics](https://img.shields.io/badge/Statistics-4B8BBE?style=for-the-badge&logo=databricks&logoColor=white)
 
+### 📜 Certifications
+- 🎓 [Google Data Analytics Professional Certificate](LINK)
+- 📊 [Tableau Desktop Specialist](LINK)
+- 🐍 [Python for Data Science – Coursera](LINK)
+- 🗄 [SQL (Advanced) – HackerRank](LINK)
+
+### 📜 Certifications
+![Google](https://img.shields.io/badge/Google-Data_Analytics-blue?style=for-the-badge)
+![Tableau](https://img.shields.io/badge/Tableau-Specialist-orange?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-Data_Science-green?style=for-the-badge)
+
+
 ### 💬 Ask me about
 Data Analytics • SQL • Python • Tableau • Machine Learning
 
