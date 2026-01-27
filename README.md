@@ -6,21 +6,15 @@
 </p>
 
 
+<h1 align="center">Hi 👋 I'm Sonali Patel</h1>
 
-<!--
-**Sonali-at-work/Sonali-at-work** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">📊 Data Analyst | SQL | Tableau | Python | Statistics </h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Turning data into insights • Building dashboards • Solving business problems
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
 # Hi 👋 I'm Sonali Patel
 
 ### 📊 Data Analyst | Python | SQL | Tableau | Machine Learning
