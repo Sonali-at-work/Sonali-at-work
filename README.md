@@ -28,12 +28,11 @@ Turning data into insights • Building dashboards • Solving business problems
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Statistics](https://img.shields.io/badge/Statistics-4B8BBE?style=for-the-badge&logo=databricks&logoColor=white)
 
-![Email](https://img.shields.io/badge/Email-sonali@email.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ### 💬 Ask me about
 Data Analytics • SQL • Python • Tableau • Machine Learning
 
 ### 📫 Reach me at
-📧 [sonali@email.com](mailto:sonali@email.com)
+📧 [sonali@email.com](mailto:patelsonali3072000@gmail.com)
 
 
 ### 🤝 Connect with me
@@ -43,6 +42,8 @@ Data Analytics • SQL • Python • Tableau • Machine Learning
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sonali-at-work&layout=compact&theme=dark)
 
 # Hi 👋 I'm Sonali Patel
 
