@@ -29,9 +29,7 @@ Here are some ideas to get you started:
 - SQL
 - Tableau
 - Excel
-- Machine Learning
-- Power BI
-
+- Statistics
 ---
 
 ### 📂 Featured Projects
