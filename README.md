@@ -35,7 +35,7 @@ Turning data into insights 📊 | Building dashboards 📈 | Solving business pr
 ### 📜 Certifications
 
 - 🎓 [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/DMLMMY6LQMCO)
-- 📊 [Tableau Desktop Specialist](https://www.udemy.com/certificate/UC-888b1b2c-d01c-48c0-817c-f9374e05becc/)
+- 📊 [Tableau Certification](https://www.udemy.com/certificate/UC-888b1b2c-d01c-48c0-817c-f9374e05becc/)
 - 🐍 [Python for Data Science – Coursera](LINK_HERE)
 - 🗄 [SQL (Advanced) – HackerRank](LINK_HERE)
 
