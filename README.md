@@ -27,10 +27,12 @@ Turning data into insights • Building dashboards • Solving business problems
 ![Statistics](https://img.shields.io/badge/Statistics-4B8BBE?style=for-the-badge&logo=databricks&logoColor=white)
 
 ### 📜 Certifications
-- 🎓 [Google Data Analytics Professional Certificate]([LINK](https://www.coursera.org/account/accomplishments/specialization/DMLMMY6LQMCO))
-- 📊 [Tableau Desktop Specialist](LINK)
-- 🐍 [Python for Data Science – Coursera](LINK)
-- 🗄 [SQL (Advanced) – HackerRank](LINK)
+
+- 🎓 [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/DMLMMY6LQMCO)
+- 📊 [Tableau Desktop Specialist](LINK_HERE)
+- 🐍 [Python for Data Science – Coursera](LINK_HERE)
+- 🗄 [SQL (Advanced) – HackerRank](LINK_HERE)
+
 
 
 ### 💬 Ask me about
