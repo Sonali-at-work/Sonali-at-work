@@ -19,6 +19,15 @@ Turning data into insights • Building dashboards • Solving business problems
 - 📈 Love building dashboards and predictive models  
 - 🧠 Always learning new tools and solving real-world problems
 
+### 🛠 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Statistics](https://img.shields.io/badge/Statistics-4B8BBE?style=for-the-badge&logo=databricks&logoColor=white)
+
 # Hi 👋 I'm Sonali Patel
 
 ### 📊 Data Analyst | Python | SQL | Tableau | Machine Learning
