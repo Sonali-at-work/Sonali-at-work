@@ -9,13 +9,19 @@
 <h3 align="center">📊 Data Analyst | SQL | Tableau | Python | Statistics </h3>
 
 <p align="center">
-Turning data into insights • Building dashboards • Solving business problems
+Turning data into insights 📊 | Building dashboards 📈 | Solving business problems 🚀
 </p>
 
 ### 🚀 About Me
+- ## Hi 👋 I'm Sonali Patel
+- 💼 SQL Server Developer with hands-on database experience
+- 🎓 M.Tech in Computer Science Engineering
+- 📜 Google Data Analytics Certified
+- 🛠 Skilled in SQL • Tableau • Python • Excel • Statistics
 - 🔍 Passionate about data analytics & visualization  
 - 📈 Love building dashboards and predictive models  
 - 🧠 Always learning new tools and solving real-world problems
+
 
 ### 🛠 Tech Stack
 
