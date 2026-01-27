@@ -28,6 +28,13 @@ Turning data into insights • Building dashboards • Solving business problems
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Statistics](https://img.shields.io/badge/Statistics-4B8BBE?style=for-the-badge&logo=databricks&logoColor=white)
 
+![Email](https://img.shields.io/badge/Email-sonali@email.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+### 💬 Ask me about
+Data Analytics • SQL • Python • Tableau • Machine Learning
+
+### 📫 Reach me at
+📧 [sonali@email.com](mailto:sonali@email.com)
+
 
 ### 🤝 Connect with me
 
