@@ -28,6 +28,15 @@ Turning data into insights • Building dashboards • Solving business problems
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Statistics](https://img.shields.io/badge/Statistics-4B8BBE?style=for-the-badge&logo=databricks&logoColor=white)
 
+
+### 🤝 Connect with me
+
+<p>
+  <a href="https://linkedin.com/in/sonali-patel-790a7b24b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
 # Hi 👋 I'm Sonali Patel
 
 ### 📊 Data Analyst | Python | SQL | Tableau | Machine Learning
