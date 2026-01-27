@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="Picture.png" width="100%" style="max-height:300px;" />
+  <img src="Picture.png" width="100%" style="max-height:100px;" />
 </p>
 
 
