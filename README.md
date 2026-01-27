@@ -1,8 +1,9 @@
 ## Hi there 👋
 
 <p align="center">
-  <img src="Picture.png" />
+  <img src="Picture.png" width="1400px" />
 </p>
+
 
 
 <!--
