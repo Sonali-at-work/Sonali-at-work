@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+<p align="center">
+  <img src="banner.png" />
+</p>
 
 <!--
 **Sonali-at-work/Sonali-at-work** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
