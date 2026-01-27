@@ -14,3 +14,34 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi 👋 I'm Sonali Patel
+
+### 📊 Data Analyst | Python | SQL | Tableau | Machine Learning
+
+💡 Passionate about turning data into insights  
+📈 Love analytics, visualization & problem solving  
+🚀 Always learning new tech  
+
+---
+
+### 🛠 Skills
+- Python
+- SQL
+- Tableau
+- Excel
+- Machine Learning
+- Power BI
+
+---
+
+### 📂 Featured Projects
+🔹 Stock Price Prediction  
+🔹 Sales Dashboard (Tableau)  
+🔹 Customer Segmentation  
+🔹 Finance Analytics
+
+---
+
+### 📫 Connect with me
+- LinkedIn: https://linkedin.com/in/yourprofile
+- Email: yourmail@gmail.com
