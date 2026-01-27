@@ -14,6 +14,10 @@
 Turning data into insights • Building dashboards • Solving business problems
 </p>
 
+### 🚀 About Me
+- 🔍 Passionate about data analytics & visualization  
+- 📈 Love building dashboards and predictive models  
+- 🧠 Always learning new tools and solving real-world problems
 
 # Hi 👋 I'm Sonali Patel
 
