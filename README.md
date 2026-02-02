@@ -14,7 +14,7 @@ Turning data into insights 📊 | Building dashboards 📈 | Solving business pr
 
 ### 🚀 About Me
 - ## Hi 👋 I'm Sonali Patel
-- 💼 SQL Server Developer with hands-on database experience
+- 💼 3 year SQL Server Developer with hands-on database experience
 - 🎓 M.Tech in Computer Science Engineering
 - 📜 Google Data Analytics Certified
 - 🛠 Skilled in SQL • Tableau • Python • Excel • Statistics
